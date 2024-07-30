@@ -1,10 +1,7 @@
-### Description
+### React Portfolio
 
-A simple portfolio template for developer/designers built with React. 
+A modern portfolio template for developers and designers, built with React, offering a clean and professional showcase for your work. It features a fully responsive design, multi-page layout, and seamless user experience, making it ideal for creating a standout online presence.
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
-
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
 ### Features
 
@@ -18,7 +15,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/555Shivam/my-portfolio.git</pre>
  
 Install required dependencies
 
@@ -29,10 +26,4 @@ Start the server
 
 <pre>yarn start</pre>
 
-### More
 
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
